@@ -202,6 +202,8 @@ header ul li a:hover{
 	font-weight: 600;
 	font-size: 30px;
 	color: #8ECAFF;
+	margin-top: 30px;
+	margin-bottom: 20px;
 }
 .w50
 {
@@ -841,7 +843,8 @@ img
 	}
 	.w50
 	{
-		margin-bottom: 20px;
+		margin-top: 40px;
+		margin-bottom: 50px;
 	}
 	.resume .content .resumeBx
 	{
@@ -950,7 +953,7 @@ ul{
 	float: left;
 	list-style-type: none;
 	margin-top: 25px;
-	margin-left: 20px;
+	margin-left: 60px;
 
 }
 
